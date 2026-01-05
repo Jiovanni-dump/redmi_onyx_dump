@@ -1,0 +1,82 @@
+{
+  "localId": "34f0a1e9-e537-45b5-9ef7-6942c777f558",
+  "onlineId": null,
+  "assemblyId": null,
+  "productId": null,
+  "hash": "66f7573dead2686d6b7b3088b3dbe13a0a7a40ff",
+  "platform": 17,
+  "size": 7521752,
+  "updatedTime": 0,
+  "version": "3.0",
+  "authors": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "designers": {
+    "zh_HK": "小米主題",
+    "zh_TW": "小米主題",
+    "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+    "en_US": "Xiaomi Themes",
+    "ug_CN": "شياۋمى ئۇسلۇبى",
+    "zh_CN": "小米主题",
+    "fallback": "小米主题"
+  },
+  "titles": {
+    "zh_HK": "REDMI Turbo 4 Pro 哈利·波特版主题",
+    "zh_TW": "REDMI Turbo 4 Pro 哈利·波特版主题",
+    "bo_CN": "REDMI Turbo 4 Pro ཧའོ་ལི·པའོ་ཏྲ་པར་གཞི།",
+    "en_US": "REDMI Turbo 4 Pro Special Edition featuring Harry Potter",
+    "ug_CN": "REDMI Turbo 4 Pro خاررىي پوتتېر نەشرى",
+    "zh_CN": "REDMI Turbo 4 Pro 哈利·波特版主题",
+    "fallback": "REDMI Turbo 4 Pro 哈利·波特版主题"
+  },
+  "descriptions": {
+    "zh_HK": "以「傳奇篇章：哈利波特與佛地魔之戰」為主題，深度融入人物形象、死亡聖器、守護神等元素，客製化開機、充電動畫及圖標，更支持紅、藍兩套主題配色靈活切換，帶給你截然不同的魔法體驗！",
+    "zh_TW": "以「傳奇篇章：哈利波特與佛地魔之戰」為主題，深度融入人物形象、死亡聖器、守護神等元素，客製化開機、充電動畫及圖標，更支持紅、藍兩套主題配色靈活切換，帶給你截然不同的魔法體驗！",
+    "zh_CN": "以「传奇篇章：哈利·波特与伏地魔之战」为主题，深度融入人物形象、死亡圣器、守护神等元素，定制开机、充电动画及图标，更支持红、蓝两套主题配色灵活切换，带给你截然不同的魔法体验！",
+    "fallback": "以「传奇篇章：哈利·波特与伏地魔之战」为主题，深度融入人物形象、死亡圣器、守护神等元素，定制开机、充电动画及图标，更支持红、蓝两套主题配色灵活切换，带给你截然不同的魔法体验！",
+    "en_US": "Centered around the theme of \"The Legendary Chapter: The Battle Between Harry Potter and Voldemort,\" this design deeply incorporates elements such as character imagery, the Deathly Hallows, Patronuses, and more, crafting customized boot-up, charging animations, and icons. Furthermore, it supports flexible switching between red and blue theme color schemes, offering you a distinctly different magical experience!"
+  },
+  "builtInThumbnails": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "builtInPreviews": {
+    "fallback": [
+      "preview_lockscreen_0.jpg"
+    ]
+  },
+  "thumbnails": [],
+  "previews": [],
+  "parentResources": [
+    {
+      "localId": "f5bc1945-ad08-41b6-9e46-4080deb1849c",
+      "resourceCode": "theme",
+      "extraMeta": {},
+      "metaPath": null,
+      "contentPath": null
+    }
+  ],
+  "subResources": [],
+  "extraMeta": {},
+  "metaPath": null,
+  "contentPath": null,
+  "rightsPath": "/product/etc/precust_theme/theme/.data/rights/theme/355a44a7e79c296c3c36216a34545426233c9091.mra",
+  "screenRatio": null,
+  "supportHomeSearchBar": false,
+  "packageVersion": null,
+  "packageName": null,
+  "officialIcons": false,
+  "iconsCount": null,
+  "fontWeight": null,
+  "price": -1,
+  "isBackUpVersion": false,
+  "themeType": 0,
+  "miuiAdapterVersion": "3.2"
+}

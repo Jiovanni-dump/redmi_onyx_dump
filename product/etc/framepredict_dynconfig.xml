@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dynamic_frame_rescue_config>
+    <support_mode>
+        <mode name="performance">performance</mode>
+        <mode name="balanced">balanced</mode>
+    </support_mode>
+    <thermal>
+        <trig temp="25000" big="2611" pri="2630" glv="0">25</trig>
+        <trig temp="30000" big="1920" pri="2284" glv="1">30</trig>
+        <trig temp="35000" big="1632" pri="1920" glv="2">35</trig>
+        <trig temp="40000" big="1286" pri="1670" glv="3">40</trig>
+        <trig temp="45000" big="1056" pri="1228" glv="4">45</trig>
+        <trig temp="50000" big="787" pri="960" glv="5">50</trig>
+        <trig temp="99000" big="633" pri="633" glv="10">99</trig>
+    </thermal>
+    <default>
+        <power_mode mode="performance">
+            <cduration lv1="30" lv2="50" lv3="100">cduration</cduration>
+            <cthreshold lv1="0.2" lv2="0.6" lv3="1.1">cthreshold</cthreshold>
+            <freqbig lv1="1286" lv2="1920" lv3="2611">freqbig</freqbig>
+            <freqpri lv1="1228" lv2="1920" lv3="2630">freqpri</freqpri>
+            <gduration lv1="30" lv2="50" lv3="100">gduration</gduration>
+            <gthreshold lv1="0.3" lv2="0.8">gthreshold</gthreshold>
+            <glevel lv1="5" lv2="5" lv3="3">glevel</glevel>
+        </power_mode>
+        <power_mode mode="balanced">
+            <cduration lv1="30" lv2="50" lv3="100">cduration</cduration>
+            <cthreshold lv1="0.4" lv2="0.8" lv3="1.3">cthreshold</cthreshold>
+            <freqbig lv1="1286" lv2="1632" lv3="2208">freqbig</freqbig>
+            <freqpri lv1="1228" lv2="1670" lv3="2284">freqpri</freqpri>
+            <gduration lv1="30" lv2="50" lv3="100">gduration</gduration>
+            <gthreshold lv1="0.5" lv2="1.0">gthreshold</gthreshold>
+            <glevel lv1="5" lv2="5" lv3="3">glevel</glevel>
+        </power_mode>
+    </default>
+    <app_whitelist>
+        <app package_name="com.ss.android.ugc.aweme">default</app>
+        <app package_name="com.tencent.mm">default</app>
+        <app package_name="com.xingin.xhs">default</app>
+        <app package_name="com.taobao.taobao">default</app>
+        <app package_name="com.eg.android.AlipayGphone">default</app>
+    </app_whitelist>
+</dynamic_frame_rescue_config>
