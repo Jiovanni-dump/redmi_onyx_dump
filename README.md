@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.9.0.WOLCNXM release-keys
+- manufacturer: xiaomi
+- platform: sun
+- codename: onyx
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.9.0.WOLCNXM
+- tags: release-keys
+- fingerprint: Redmi/onyx/onyx:15/AQ3A.250226.002/OS3.0.9.0.WOLCNXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.9.0.WOLCNXM-release-keys
+- repo: redmi_onyx_dump
